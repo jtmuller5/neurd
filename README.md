@@ -30,7 +30,9 @@ Using Neurd Notes is relatively straightforward. Add new files to the `daily`, `
 
 ### Customization
 
-The Neurd VS Code Extension will use the templates in the `templates` folder. These templates are simply markdown files that you can edit. Any changes to `daily.md`, `weekly.md`, or `note.md` will be used in applied to all future notes.
+The Neurd VS Code Extension will use the templates in the `templates` folder. These templates are simply markdown files that you can edit. Any changes to `daily.md`, `weekly.md`, or `note.md` will be used in applied to all future notes. 
+
+You can also create custom templates by adding a new markdown file to the `templates` directory. To use it, run the "Neurd: Create Note from Custom Template" command and select your new template. All templates in the `templates` directory are detected automatically.
 
 ### Folder Organization
 
