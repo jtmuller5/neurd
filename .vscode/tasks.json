@@ -2,24 +2,34 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "command": "neurd.createDailyNote",
-      "label": "Neurd: Create Daily Note"
+      "label": "Neurd: Create Daily Note",
+      "type": "process",
+      "command": "${command:neurd.createDailyNote}",
+      "problemMatcher": []
     },
     {
-      "command": "neurd.createWeeklyNote",
-      "label": "Neurd: Create Weekly Note"
+      "label": "Neurd: Create Weekly Note",
+      "type": "process",
+      "command": "${command:neurd.createWeeklyNote}",
+      "problemMatcher": []
     },
     {
-      "command": "neurd.createNote",
-      "label": "Neurd: Create General Note"
+      "label": "Neurd: Create General Note",
+      "type": "process",
+      "command": "${command:neurd.createNote}",
+      "problemMatcher": []
     },
     {
-      "command": "neurd.createFromTemplate",
-      "label": "Neurd: Create Note From Custom Template"
+      "label": "Neurd: Create Note From Custom Template",
+      "type": "process",
+      "command": "${command:neurd.createFromTemplate}",
+      "problemMatcher": []
     },
     {
-      "command": "neurd.setDefaultJournal",
-      "label": "Neurd: Set Default Journal Location"
+      "label": "Neurd: Set Default Journal Location",
+      "type": "process",
+      "command": "${command:neurd.setDefaultJournal}",
+      "problemMatcher": []
     }
   ]
 }
