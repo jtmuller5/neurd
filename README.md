@@ -28,6 +28,14 @@ The [.gitignore](.gitignore) file included in the template repo is set up to ign
 
 Neurd notes are designed to be used alongside AI tools. Some AI tools enable you to chat with your content while others can help you search it. Below are instructions for integrating with popular AI tools.
 
+### VS Code Copilot Fuzzy Search
+
+You can enable the fuzzy/semantic search feature in VS code by toggling the `github.copilot.chat.search.semanticTextResults` experimental setting.
+
+![Semantic search with copilot](image.png)
+
+With this turned on, a new section called "GitHub Copilot Results" will appear in the search sidebar. This should let you search your entire Neurd journal without needing exact search terms.
+
 ### LlamaIndex Integration
 
 LlamaIndex is a framework for building LLM-powered agents over your data. One of the most useful aspects of the framework is the [RAG CLI](https://docs.llamaindex.ai/en/stable/getting_started/starter_tools/rag_cli/) which lets you chat with an LLM about the files you have saved locally on your computer.
