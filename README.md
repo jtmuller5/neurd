@@ -20,6 +20,12 @@ Using Neurd Notes is relatively straightforward. Add new files to the `daily`, `
 
 ## Content Management
 
+### Folder Organization
+
+There is no required folder organization so you can organize your notes however you'd like. Many of the integrations below are also extremely lenient about the structure of your data.
+
+To copy all of the content from a single folder, check out the [Clibbits](https://marketplace.visualstudio.com/items?itemName=CodeontheRocks.clibbits) VS Code extension (right-click a folder and select "Copy for AI")
+
 ### Private Notes
 
 The [.gitignore](.gitignore) file included in the template repo is set up to ignore all content in the `/content/private` directory. 
