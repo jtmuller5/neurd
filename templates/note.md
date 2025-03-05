@@ -1,4 +1,4 @@
-📅 Date: `YYYY-MM-DD`  
+📅 Date: `${date}`  
 🔖 Tags: #idea #insight #reflection
 
 ---

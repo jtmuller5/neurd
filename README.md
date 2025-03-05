@@ -6,6 +6,14 @@ An adaptable note-taking journal built with AI in mind.
 
 Clone the Neurd template repo and then copy any of the templates from the `/templates` folder into the corresponding folder in the `/content` folder. For example, to add a new daily journal entry, copy the `daily.md` template into a new file in `/content/daily`.
 
+For an even smoother experience, install the [Neurd VS Code Extension ](https://marketplace.visualstudio.com/items?itemName=codeontherocks.neurd-vs-code) and use any of the following commands to create a new journal entry:
+
+- "Neurd: Create Daily Note"
+- "Neurd: Create Weekly Note"
+- "Neurd: Create General Note"
+
+By default, these commands will use the templates configured in this project. The extension can also be configured to always use the templates in a specific directory (see the "Neurd: Set Default Journal Location"). This will also make it so that all of your notes are always saved to the same location.
+
 ## Usage
 
 Using Neurd Notes is relatively straightforward. Add new files to the `daily`, `weekly`, and `notes` directories and then use an integration or the Neurd tools to interact with your content later.
@@ -15,10 +23,14 @@ Using Neurd Notes is relatively straightforward. Add new files to the `daily`, `
 
 ## Tools
 
-- Neurd VS Code Extension: Commands to quickly create daily, weekly, and one-off note files. Chat participant to chat with content inside VS Code.
+- [Neurd VS Code Extension](https://marketplace.visualstudio.com/items?itemName=codeontherocks.neurd-vs-code): Commands to quickly create daily, weekly, and one-off note files. Chat participant to chat with content inside VS Code.
 - Neurd CLI: CLI for generating new files, searching knowledge base, and chatting with content
 
 ## Content Management
+
+### Customization
+
+The Neurd VS Code Extension will use the templates in the `templates` folder. These templates are simply markdown files that you can edit. Any changes to `daily.md`, `weekly.md`, or `note.md` will be used in applied to all future notes.
 
 ### Folder Organization
 
