@@ -1,8 +1,8 @@
 📅 Date: `${date}`  
-🔖 Tags: #idea #insight #reflection
+🔖 Tags: #note
 
 ---
 
-## ✍️ **Title of the Note**  
+## ✍️ **{title}**  
 
 _(Describe your thought or idea in a few words)_
