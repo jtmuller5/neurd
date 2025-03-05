@@ -5,10 +5,14 @@
 > Clearly define the **one main thing** you need to focus on today
 
 
-## ⏳ Deep Work Blocks
-1. **Time Block 1** (e.g., 9:00 AM - 11:00 AM) → [ ]
-2. **Time Block 2** (e.g., 1:00 PM - 3:00 PM) → [ ]
-3. **Time Block 3** (if needed) → [ ]
+## ✅ Key Tasks for Today
+> [!NOTE]
+> List the most important tasks you need to complete today.
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+- [ ] Task 4 (if needed)
 
 ## 📚 Learning Notes (Key Takeaways)
 > [!NOTE]
