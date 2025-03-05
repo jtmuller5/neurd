@@ -2,14 +2,14 @@
     "Neurd Note": {
         "prefix": "neurd-note",
         "body": [
-            "📅 Date: `${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}`",  
-            "🔖 Tags: #idea #insight #reflection",
+            "📅 Date: `${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}`",
+            "🔖 Tags: #${2:note}",
             "",
             "---",
             "",
             "## ✍️ **${1:Title of the Note}**",
             "",
-            "_(Describe your thought or idea in a few words)_"
+            "${3:_(Describe your thought or idea in a few words)_}"
         ],
         "description": "Creates a new Neurd note with an auto-populated date and a title variable."
     }
