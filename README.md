@@ -2,6 +2,9 @@
 
 An adaptable note-taking journal built with AI in mind.
 
+> [!IMPORTANT]
+> If you'd like to use VS Code as the ultimate note taking/studying tool, give this [issue](https://github.com/microsoft/vscode-copilot-release/issues/5991) an upvote.
+
 ## Quickstart
 
 Clone the Neurd template repo and then copy any of the templates from the `/templates` folder into the corresponding folder in the `/content` folder. For example, to add a new daily journal entry, copy the `daily.md` template into a new file in `/content/daily`.

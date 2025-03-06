@@ -12,5 +12,28 @@
             "${3:_(Describe your thought or idea in a few words)_}"
         ],
         "description": "Creates a new Neurd note with an auto-populated date and a title variable."
+    },
+    "Neurd Task": {
+        "prefix": "neurd-task",
+        "body": [
+            "## ✅ Task ${1:1}",
+            "",
+            "**Description:**",
+            "- ${2:}",
+            "",
+            "**Scheduled Time:** 9:00 AM - 11:00 AM",
+            "",
+            "**Quick Wins:**",
+            "- ${3:}",
+            "",
+            "**Content Ideas:**",
+            "- ${4:}",
+            "",
+            "**Future Ideas & Distractions:**",
+            "- ${5:}",
+            "",
+            "---"
+        ],
+        "description": "Creates a new Neurd task with sections for description, scheduled time, quick wins, content ideas, and future ideas & distractions."
     }
 }

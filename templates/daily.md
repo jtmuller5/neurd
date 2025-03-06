@@ -1,48 +1,81 @@
-# Daily Focus Template
+# Daily Planning Template
 
-## 🎯 Main Goal for Today
+## 🎯 Today's Main Goal
 > [!NOTE]
-> Clearly define the **one main thing** you need to focus on today
+> Clearly define the **one main thing** you will accomplish today.
 
+---
 
-## ✅ Key Tasks for Today
-> [!NOTE]
-> List the most important tasks you need to complete today.
+## ✅ Task 1
 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4 (if needed)
-
-## 📚 Learning Notes (Key Takeaways)
-> [!NOTE]
-> Jot down 3 key things you learned today
-- 
-- 
+**Description:**
 - 
 
-## 📝 Content “Sawdust”
-> [!NOTE]
-> Quick notes on what could be turned into a post, video, or blog
-- 
-- 
+**Scheduled Time:** 9:00 AM - 11:00 AM
+
+**Quick Wins:**
 - 
 
-## 🚀 Quick Wins (Small things that moved the needle today)
-> [!NOTE]
-> Even minor progress counts—track small wins to stay motivated
-
-- 
-- 
+**Content Ideas:**
 - 
 
-## 🤔 Reflection & Next Steps
-> [!NOTE]
-> What worked? What didn’t? What needs to change tomorrow?
-- 
-- 
+**Future Ideas & Distractions:**
 - 
 
 ---
 
-**Reminder:** Stay committed to one main focus each day. If new interests pop up, add them to a "Future Ideas" list and revisit later.
+## ✅ Task 2
+
+**Description:**
+- 
+
+**Scheduled Time:** 11:15 AM - 1:00 PM
+
+**Quick Wins:**
+- 
+
+**Content Ideas:**
+- 
+
+**Future Ideas & Distractions:**
+- 
+
+---
+
+## ✅ Task 3
+
+**Description:**
+-
+
+**Scheduled Time:** 2:00 PM - 4:00 PM
+
+**Quick Wins:**
+- 
+
+**Content Ideas:**
+- 
+
+**Future Ideas & Distractions:**
+- 
+
+---
+
+## ✅ Task 4
+
+**Description:**
+- 
+
+**Scheduled Time:** 4:15 PM - 5:00 PM
+
+**Quick Wins:**
+- 
+
+**Content Ideas:**
+- 
+
+**Future Ideas & Distractions:**
+- 
+
+---
+
+**Reminder:** Stick to your main goal. If new interests arise, note them under each task's "Future Ideas & Distractions" section and revisit later.
